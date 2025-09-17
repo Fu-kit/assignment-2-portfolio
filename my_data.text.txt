@@ -1,0 +1,10 @@
+my_data.text
+
+City-of-my-friends list
+
+I found my friends are from;
+Bogoda, Colombia
+Eldoret, Kenya
+Punjab, India
+Kathmandu, Nepal
+Timphu, Bhutan
